@@ -1,5 +1,6 @@
 {
     "name": "dennykuo/invoices-module",
+    "type": "laravel-module",
     "description": "",
     "extra": {
         "laravel": {
